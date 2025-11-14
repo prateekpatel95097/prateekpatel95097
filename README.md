@@ -1,50 +1,71 @@
-<h1 align="center">Hi 👋, I'm Prateek Patel</h1>
-<h3 align="center">AIML Engineering Student | Python | C | C++ | ML Enthusiast</h3>
+# 👋 Hi, I'm Prateek Patel  
+### 🚀 AIML Engineering Student | Python • C • C++ | Machine Learning Enthusiast  
+
+I’m a 2nd-year Engineering student specializing in **Artificial Intelligence & Machine Learning**.  
+I love building real-world projects, learning new technologies, and improving my programming & AI skills.
 
 ---
 
-### 🌟 About Me  
-- 🎓 2nd Year Engineering Student (AIML)  
-- 💡 Passionate about **Machine Learning & AI Projects**  
-- 💻 Skilled in **Python, C, C++**  
-- 🔍 Learning **Data Science & ML Algorithms**  
-- 🤝 Open to collaborating on ML/Python Projects  
+## 🔥 About Me
+- 🎓 B.Tech in **AIML (2nd Year)**
+- 💻 Skilled in **Python, C, C++**
+- 🤖 Interested in **AI, Machine Learning, Automation & Coding**
+- 📘 Strong foundation in programming and problem-solving  
+- 🌱 Currently learning **Deep Learning & Data Structures**
+- 🗣 Good communication & teamwork abilities
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
-</p>
+## 🛠 Tech Stack  
+
+### **Languages**
+- Python  
+- C  
+- C++  
+- HTML / CSS  
+
+### **AI / ML Libraries**
+- NumPy  
+- Pandas  
+- Scikit-Learn  
+- TensorFlow / Keras  
+
+### **Tools**
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekpatel95097&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekpatel95097&theme=tokyonight" width="48%">
-</p>
+## 📂 Featured Projects  
+
+### 🔹 **AI Chatbot (Python)**
+A rule-based AI chatbot that responds using keyword matching.
+
+### 🔹 **Weather App (Python + API)**
+Fetches real-time weather using the OpenWeather API.
+
+### 🔹 **Face Detection System (OpenCV)**
+Detects faces using Haar Cascade Classifier.
+
+### 🔹 **MNIST Digit Recognition**
+Recognizes handwritten digits (0–9) using ML model.
 
 ---
 
-### 🚀 Let's Connect  
-📩 **Email:** *pratikpatel95097@gmail.com*  
+## 📊 GitHub Stats  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateekpatel95097&show_icons=true&theme=tokyonight)
 
-<!--
-**prateekpatel95097/prateekpatel95097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekpatel95097&layout=compact&theme=tokyonight)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact  
+📧 **Email:** pratikpatel95097@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/prateek-patel-6841bb382  
+👨‍💻 **GitHub:** https://github.com/prateekpatel95097  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my projects.*  
