@@ -31,7 +31,7 @@
 ---
 
 ### 🚀 Let's Connect  
-📩 **Email:** *Add your email here*  
+📩 **Email:** *pratikpatel95097@gmail.com*  
 
 
 <!--
