@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prateek Patel  
-### 🚀 AIML Engineering Student | Python • C • C++ | Machine Learning Enthusiast  
+### 🚀 AIML Engineering Student | Python • C++ | Machine Learning Enthusiast  
 
 I’m a 2nd-year Engineering student specializing in **Artificial Intelligence & Machine Learning**.  
 I love building real-world projects, learning new technologies, and improving my programming & AI skills.
@@ -20,7 +20,6 @@ I love building real-world projects, learning new technologies, and improving my
 
 ### **Languages**
 - Python  
-- C  
 - C++  
 - HTML / CSS  
 
